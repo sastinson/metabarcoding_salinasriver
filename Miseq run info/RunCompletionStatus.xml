@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<RunCompletionStatus xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1</Version>
+  <CompletionStatus>SuccessfullyCompleted</CompletionStatus>
+  <RunId>200828_M02034_0512_MS9953159-600V3</RunId>
+  <StepCompleted>23</StepCompleted>
+  <CycleCompleted>616</CycleCompleted>
+  <ErrorDescription>None</ErrorDescription>
+</RunCompletionStatus>

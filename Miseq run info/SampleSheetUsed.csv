@@ -1,0 +1,52 @@
+[Header],,,,
+IEMFileVersion,4,,,
+Investigator Name,RichardConnon_SarahStinson,,,
+Project Name,M1024P_Stinson,,,
+Experiment Name,M1024P_Stinson,,,
+Date,8/28/2020,,,
+Workflow,LibraryQC,,,
+Application,Library QC,,,
+Assay,Crisper amplicon,,,
+Description,MiSeq PE 298x298 + 10 bp Dual index,,,
+Chemistry,Amplicon,,,
+,,,,
+[Reads],,,,
+298,,,,
+298,,,,
+,,,,
+[Settings],,,,
+,,,,
+[Data],,,,
+Sample_ID,Sample_Name,index,index2,GenomeFolder
+CHAL,CHAL,GAACTGAGCG,TCGTGGAGCG,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+NAC062,NAC062,AGGTCAGATA,CTACAAGATA,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+SANFHL1,SANFHL1,CGTCTCATAT,TATAGTAGCT,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+ARSARC,ARSARC,ATTCCATAAG,TGCCTGGTGG,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+ARS056,ARS056,GACGAGATTA,ACATTATCCT,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+SALDAVIS,SALDAVIS,AACATCGCGC,GTCCACTTGT,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+SALQUAIL,SALQUAIL,CTAGTGCTCT,TGGAACAGTA,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+SALHART,SALHART,GATCAAGGCA,CCTTGTTAAT,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+SANSANJ,SANSANJ,GACTGAGTAG,GTTGATAGTG,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+SALHARO,SALHARO,AGTCAGACGA,ACCAGCGACA,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+SALCHU,SALCHU,CCGTATGTTC,CATACACTGT,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+SALBRAD,SALBRAD,GAGTCATAGG,GTGTGGCGCT,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+SALGRN,SALGRN,CTTGCCATTA,ATCACGAAGG,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+SALSANLO,SALSANLO,GAAGCGGCAC,CGGCTCTACT,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+SALSANMG,SALSANMG,TCCATTGCCG,GAATGCACGA,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+SALELM,SALELM,CGGTTACGGC,AAGACTATAG,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+PINCRK,PINCRK,GAGAATGGTT,TCGGCAGCAA,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+NAC043,NAC043,AGAGGCAACC,CTAATGATGG,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+NAC309NAC,NAC309NAC,CCATCATTAG,GGTTGCCTCT,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+FHL2,FHL2,GATAGGCCGA,CGCACATGGC,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+FHL064,FHL064,ATGGTTGACT,GGCCTGTCCT,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+CAMPROB2,CAMPROB2,TATTGCGCTC,CTGTGTTAGG,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+SEDFB,SEDFB,ACGCCTTGTT,TAAGGAACGT,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+SEDEB,SEDEB,TTCTACATAC,CTAACTGTAA,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+H2ONAC,H2ONAC,AACCATAGAA,GGCGAGATGG,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+H2OSANFH,H2OSANFH,GGTTGCGAGG,AATAGAGCAA,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+H2OARSAR,H2OARSAR,TAAGCATCCA,TCAATCCATT,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+H2OCHAL,H2OCHAL,ACCACGACAT,TCGTATGCGG,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+H2OARS56,H2OARS56,GCCGCACTCT,TCCGACCTCG,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+H2OFB,H2OFB,CCACCAGGCA,CTTATGGAAT,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+H2OEB,H2OEB,GTGACACGCA,GCTTACGGAC,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA
+NTC,NTC,ACAGTGTATG,GAACATACGG,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\WholeGenomeFASTA

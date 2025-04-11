@@ -1,0 +1,26 @@
+8/30/2020,21:27:55.102,MiSeq Reporter 2.6.2.3: Starting Error Logging for 200828_M02034_0512_MS9953159-600V3
+8/30/2020,21:27:56.552,Unable to create directory System.IO.DirectoryNotFoundException: Could not find a part of the path 'M:\200828_M02034_0512_MS9953159-600V3'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at Illumina.SecondaryAnalysis.FileCopyWorker.EnsureDirectoryExists(DirectoryInfo di) in c:\BuildRepository\yshah\Isis\MSR-26x\Src\SecondaryAnalysis\Workflow\FileCopyWorker.cs:line 363
+8/30/2020,21:27:56.552,Unable to create directory System.IO.DirectoryNotFoundException: Could not find a part of the path 'M:\'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at Illumina.SecondaryAnalysis.FileCopyWorker.EnsureDirectoryExists(DirectoryInfo di) in c:\BuildRepository\yshah\Isis\MSR-26x\Src\SecondaryAnalysis\Workflow\FileCopyWorker.cs:line 363
+8/30/2020,21:27:56.552,Cannot find or create output directory: M:\200828_M02034_0512_MS9953159-600V3
+8/30/2020,21:27:59.162,Timeout - Thread Aborted
+8/30/2020,21:27:59.162,Error shutting down thread: Thread was being aborted.
+8/30/2020,21:27:59.162,Copy Thread has terminated abnormally. Thread was being aborted.
+8/31/2020,09:30:50.090,MiSeq Reporter 2.6.2.3: Starting Error Logging for 200828_M02034_0512_MS9953159-600V3
+8/31/2020,09:30:51.606,Unable to create directory System.IO.DirectoryNotFoundException: Could not find a part of the path 'M:\200828_M02034_0512_MS9953159-600V3'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at Illumina.SecondaryAnalysis.FileCopyWorker.EnsureDirectoryExists(DirectoryInfo di) in c:\BuildRepository\yshah\Isis\MSR-26x\Src\SecondaryAnalysis\Workflow\FileCopyWorker.cs:line 363
+8/31/2020,09:30:51.606,Unable to create directory System.IO.DirectoryNotFoundException: Could not find a part of the path 'M:\'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at Illumina.SecondaryAnalysis.FileCopyWorker.EnsureDirectoryExists(DirectoryInfo di) in c:\BuildRepository\yshah\Isis\MSR-26x\Src\SecondaryAnalysis\Workflow\FileCopyWorker.cs:line 363
+8/31/2020,09:30:51.606,Cannot find or create output directory: M:\200828_M02034_0512_MS9953159-600V3
+8/31/2020,09:30:54.220,Timeout - Thread Aborted
+8/31/2020,09:30:54.220,Error shutting down thread: Thread was being aborted.
+8/31/2020,09:30:54.220,Copy Thread has terminated abnormally. Thread was being aborted.
